@@ -30,7 +30,7 @@
 - `SJM.exe`：电脑直接运行。
 - `SJM-1.0.8.apk`：传到手机安装。
 
-如果提供发行包，可在仓库的 **Releases** 页面下载；否则按下方说明从源码构建。运行成品不需要 Java、Python、Gradle 或 Android 开发工具。
+已发布 [v1.0.8 发行包](https://github.com/Lostonelzq/SJM/releases/tag/v1.0.8)：[Windows EXE](https://github.com/Lostonelzq/SJM/releases/download/v1.0.8/SJM.exe) · [Android APK](https://github.com/Lostonelzq/SJM/releases/download/v1.0.8/SJM-1.0.8.apk) · [SHA-256 校验文件](https://github.com/Lostonelzq/SJM/releases/download/v1.0.8/SHA256SUMS.txt)。也可按下方说明从源码构建。运行成品不需要 Java、Python、Gradle 或 Android 开发工具。
 
 1. 手机安装并打开轻划。
 2. 点击“设置无障碍权限”，按系统提示手动开启“轻划 · 上下滑动”。当前权限包含手势和窗口控件访问，后者用于输入框兼容性测试。
