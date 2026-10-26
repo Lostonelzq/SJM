@@ -1,0 +1,1 @@
+<resources><string name="accessibility_description">只在你开启接收时，执行已配对电脑发来的滑动和鼠标点击。输入测试会访问当前焦点输入框并填字，不回传页面文字，不截图、不录音，不自动发送评论。可随时在轻划或通知中停止控制。</string></resources>
